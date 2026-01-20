@@ -6,7 +6,7 @@ public:
             return true;                                 
 
         if (p == NULL || q == NULL)
-            return false;
+ary Tree            return false;
 
         if (p->val != q->val)
             return false;
