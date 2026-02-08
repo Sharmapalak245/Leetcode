@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> triangle;
+        vector<vector<int>> triangle;ujh
 
         for (int i = 0; i < numRows; i++) {
             vector<int> row(i + 1, 1);
